@@ -1,0 +1,85 @@
+//Entrada de dados:
+   PrimeiroNumero
+   SegundoNumero
+//Processamento
+   Somar os dois numeros
+//Saida
+  O resultado da soma
+
+=========================
+Algoritmo:
+
+Ler PrimeiroNumero
+Ler SegundoNumero
+soma = PrimeiroNumero + SegundoNumero
+Escrever soma
+
+
+
+exercicio 2 
+
+Ler Nota1
+Ler Nota2
+Ler Nota3
+
+SomarNotas = Nota1 + Nota2 + Nota3
+Media = SomarNotas / 3
+
+Se Media >= 7 entao
+   escreva "Aprovado"
+Senao
+   escreva "Reprovado"   
+   
+Resultado da Media
+
+
+exercicio 3
+
+Pegar uma panela
+Colocar agua
+Ligar o fogo
+Colocar a panela com agua para fever 
+Pegar o macarrao
+Assim que fever a agua colocar o macarrao
+Mexer depois o macarrao 
+Colocar o tempero
+Mexer o macarrao 
+Deixar cozinhando ate ficar mole
+Pronto finalizado
+So servi-lo
+
+
+exercicio 4
+
+distancia 210Km
+combustivel 16L
+
+media de consumo = distancia 210Km / combustivel 16L
+
+resultado da media de consumo = 13.1Km/L
+
+
+exercicio 5 
+
+Pegar toalha 
+Entrar no banheiro 
+Tirar a roupa
+Abrir o boxe 
+Entrar nele
+Ligar o chuveiro
+Passar agua no corpo
+Pegar o sabonete
+Passa-lo no corpo
+Enxagar se 
+Pegar o shampoo
+Passa-lo na cabeça
+Lava a cabeça depois 
+Tirar o sabao do corpo 
+Desligar o chuveiro
+Depois disso pegar a toalha
+E secar o corpo
+E sair do boxe
+E depois do banheiro
+ 
+
+
